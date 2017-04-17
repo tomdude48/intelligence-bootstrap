@@ -1,0 +1,51 @@
+sessions::condition::ga:dimension9=@&rt=gravityforms&,ga:dimension9=@&rk=1&
+"sessions::condition::ga:dimension8=@&rt=gravityforms&,ga:dimension8=@&rk=1&
+
+// wraps all intel elements
+.intel-wrapper
+// used when content is in full page
+.intel-page
+
+// used when intel content 
+.intel-block
+
+// 
+.intel-block-small
+
+// page markup
+<div class="intel-wrapper">
+  <div class="intel-page">
+    <h1>Title</h1>
+    <navbar>
+    <breadcrumbs>
+    <div class="intel-content [view_mode]">
+
+    </div>
+  </div>
+</div>
+
+
+// wide block
+<div class="intel-wrapper">
+  <div class="intel-content intel-half">
+
+  </div>
+</div>
+
+// small block
+<div class="intel-wrapper">
+  <div class="intel-content intel-qtr">
+
+  </div>
+</div>
+
+wrapper
+
+
+sessions::condition::ga:dimension9=@&rt=gravityforms&;ga:dimension9=@&rk=1&;ga:dimension8=@&r2k=77&
+
+
+sessions::condition::ga:dimension9=@&rt=gravityforms&,ga:dimension9=@&rk=1&,ga:dimension8=@&r2k=76&
+
+
+sessions::condition::ga:dimension9=@&rt=gravityforms&,sessions::condition::ga:dimension9=@&rk=1&,sessions::condition::ga:dimension8=@&r2k=76&
